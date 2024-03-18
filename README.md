@@ -1,5 +1,5 @@
 # 245_Protoype
-Prototype game weapon for LB245. This prototype is based on the flamethrower where the player has the ability to jump mid air with airblasts in exchange emmiting 0 damage to enemies
+Prototype game weapon for LB245. This prototype is based on the flamethrower where the player has the ability to jump mid air with airblasts in exchange emmiting zero damage to enemies.
 
 ## Requirements
 | Number  | Description |
