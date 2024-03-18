@@ -17,7 +17,7 @@ Prototype game weapon for LB245
 | 3.1  | 3 | - | left click | - |
 
 ## Test protocol
-| Test number  | N/OK | Remarks | Signature | output |
-| ------------- | ------------- | ------------ | ------------ | ------------ |
-| Content Cell  | Content Cell  |  Content    |  Content    |  Content    |
-| Content Cell  | Content Cell  |  Content    |  Content    |  Content    |
+| Date | Test number  | Environment | N/OK | Remarks | Signature | output |
+| ------------- | ------------- | ------------ | ------------ | ------------ | ------------ | ------------ |
+| 18/03/2024  | Content Cell  | Godot | OK | - | Studer | - |
+| 18/03/2024  | Content Cell  | Godot | OK | - | Studer | - |
