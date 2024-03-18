@@ -17,7 +17,7 @@ Prototype game weapon for LB245
 | 3.1  | 3 | - | left click | - |
 
 ## Test protocol
-| Test number  | requirement number | prerequisites | input | output |
+| Test number  | N/OK | Remarks | Signature | output |
 | ------------- | ------------- | ------------ | ------------ | ------------ |
 | Content Cell  | Content Cell  |  Content    |  Content    |  Content    |
 | Content Cell  | Content Cell  |  Content    |  Content    |  Content    |
