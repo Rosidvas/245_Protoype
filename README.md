@@ -11,8 +11,10 @@ Prototype game weapon for LB245
 ## Testcase specification
 | Test number  | requirement number | prerequisites | input | output |
 | ------------- | ------------- | ------------ | ------------ | ------------ |
-| Content Cell  | Content Cell  |  Content    |  Content    |  Content    |
-| Content Cell  | Content Cell  |  Content    |  Content    |  Content    |
+| 1.1 | Content Cell  |  Content    |  Content    |  Content    |
+| 1.2  | Content Cell  |  Content    |  Content    |  Content    |
+| 2.1 | Content Cell  |  Content    |  Content    |  Content    |
+| 3.1  | Content Cell  |  Content    |  Content    |  Content    |
 
 ## Test protocol
 | Test number  | requirement number | prerequisites | input | output |
