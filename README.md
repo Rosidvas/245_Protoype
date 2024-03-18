@@ -30,4 +30,4 @@ Prototype game weapon for LB245. This prototype is based on the flamethrower whe
 | - | 4.1  | Godot | NOK | - | Studer | - |
 
 ## Test report
-
+The functions that are suppose to be added to make the flamethrower works as intended (airblast jumping).
