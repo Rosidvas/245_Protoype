@@ -28,3 +28,6 @@ Prototype game weapon for LB245. This prototype is based on the flamethrower whe
 | 18/03/2024  | 2.1 | Godot | OK | - | Studer | - |
 | - | 3.1  | Godot | NOK | - | Studer | - |
 | - | 4.1  | Godot | NOK | - | Studer | - |
+
+## Test report
+
