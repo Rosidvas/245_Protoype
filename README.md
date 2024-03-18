@@ -1,5 +1,6 @@
 # 245_Protoype
 Prototype game weapon for LB245
+
 ## Requirements
 | Number  | Description |
 | ------------- | ------------- |
@@ -7,6 +8,7 @@ Prototype game weapon for LB245
 | 2 | pressing left click should give the user the ability to jump mid air|
 | 3 | the player shouldn't do any damage when shooting flames |
 
+##Testconcept
 
 ## Testcase specification
 | Test number  | requirement number | prerequisites | input | output |
