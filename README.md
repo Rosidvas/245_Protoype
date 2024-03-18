@@ -6,7 +6,7 @@ Prototype game weapon for LB245
 
 
 ## Testcase specification
-| Numbert  | Second Header | Third Header |
-| ------------- | ------------- | ------------ |
-| Content Cell  | Content Cell  |  Content    |
-| Content Cell  | Content Cell  |  Content    |
+| Test number  | requirement number | prerequisites | input | output |
+| ------------- | ------------- | ------------ | ------------ | ------------ |
+| Content Cell  | Content Cell  |  Content    |  Content    |  Content    |
+| Content Cell  | Content Cell  |  Content    |  Content    |  Content    |
