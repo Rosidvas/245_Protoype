@@ -33,4 +33,4 @@ we have decided that requirement 4 will be implemented and tested during further
 | - | 4.1  | Godot | NOK | - | Studer | - |
 
 ## Test report
-The functions that are suppose to be added to make the flamethrower works as intended (airblast jumping).
+The functions that are suppose to be added to make the flamethrower works as intended (airblast jumping). Development for other factors (putting targets on fire) is not part of the prototype
