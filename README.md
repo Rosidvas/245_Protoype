@@ -9,6 +9,9 @@ Prototype game weapon for LB245. This prototype is based on the flamethrower whe
 | 3 | the player shouldn't do any damage when shooting flames |
 | 4 | the target is on fire but does not receive any damage |
 
+## Decisions
+we have decided that requirement 4 will be implemented and tested during further development, since this prototype main goal is the movement and jumps for the class.
+
 ## Test Concept
 
 ## Testcase specification
